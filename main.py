@@ -5,4 +5,3 @@ import glob
 
 jc_files = glob.glob('bike-rental-data\data\JC-2016**-citibike-tripdata.csv')
 
-print(jc_files)
