@@ -9,3 +9,17 @@ A bike rental company requires a database to analyze the impact of weather condi
 - Design and Implement a Relational PostgreSQL Database: Create a structured PostgreSQL database to efficiently store and manage the cleaned datasets.
 
 - Use SQL to Develop Analytics-Ready Database Views: Develop SQL queries to generate views that facilitate effective analysis of the relationship between weather conditions and bike rentals.
+
+### Project status:
+
+- Set Up the Project ✅
+
+- Prepare the Data 🔄
+
+- Create a Schema 🔄
+
+- Create the Database 🔄
+
+- Create Views 🔄
+
+- Create a Write-up 🔄
