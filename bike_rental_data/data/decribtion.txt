@@ -1,0 +1,7 @@
+/data
+    - newark_airport_2016.csv: weather data from Newark airport
+    - JC-2016xx-citibike-tripdata.csv: twelve files each containing one month of Citi Bike data from Jersey City
+
+/data-dictionaries
+    - citibike.pdf: details on the Citi Bike data files from Citi Bike’s website
+    - weather.pdf: details on the weather data from NOAA’s website
