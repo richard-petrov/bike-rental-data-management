@@ -1,0 +1,28 @@
+/data
+    - newark_airport_2016.csv: weather data from Newark airport
+    - JC-2016xx-citibike-tripdata.csv: twelve files each containing one month of Citi Bike data from Jersey City
+
+/data-dictionaries
+    - citibike.pdf: details on the Citi Bike data files from Citi Bike’s website
+    - weather.pdf: details on the weather data from NOAA’s website
+
+//JC-2016xx-citibike-tripdata
+    - Trip Duration (seconds)
+    - Start Time and Date
+    - Stop Time and Date
+    - Start Station Name
+    - End Station Name
+    - Station ID
+    - Station Lat/Long
+    - Bike ID
+    - User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+    - Gender (Zero=unknown; 1=male; 2=female)
+    - Year of Birth
+
+/newark_airport_2016
+    - STATION (17 characters) is the station identification code.
+    - STATION_NAME (max 50 characters) is the name of the station (usually city/airport name). 
+    - DATE is the year of the record (4 digits) followed by month (2 digits) and day (2 digits).
+    - AWND = Average daily wind speed (meters per second or miles per hour as per user preference) 
+    - PGTM = Peak gust time
+    - PRCP = Precipitation (mm or inches as per user preference, inches to hundredths on Daily Form pdf file)
