@@ -14,11 +14,11 @@ A bike rental company requires a database to analyze the impact of weather condi
 
 - Set Up the Project ✅
 
-- Prepare the Data 🔄
+- Prepare the Data ✅
 
-- Create a Schema 🔄
+- Create a Schema ✅
 
-- Create the Database 🔄
+- Create the Database ✅
 
 - Create Views 🔄
 
