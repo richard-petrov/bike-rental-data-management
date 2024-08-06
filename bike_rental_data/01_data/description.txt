@@ -24,5 +24,15 @@
     - STATION_NAME (max 50 characters) is the name of the station (usually city/airport name). 
     - DATE is the year of the record (4 digits) followed by month (2 digits) and day (2 digits).
     - AWND = Average daily wind speed (meters per second or miles per hour as per user preference) 
-    - PGTM = Peak gust time
+    - PGTM = Peak gust time (DELETED)
     - PRCP = Precipitation (mm or inches as per user preference, inches to hundredths on Daily Form pdf file)
+    - SNOW = Snowfall (mm or inches as per user preference, inches to tenths on Daily Form pdf file)
+    - SNWD = Snow depth (mm or inches as per user preference, inches on Daily Form pdf file)
+    - TAVG = Average temperature
+    - TMAX = Maximum  temperature
+    - TMIN = Minimum temperature
+    - TSUN = Daily total sunshine (minutes) (DELETED)
+    - WDF2 = Direction of fastest 2-minute wind (degrees)
+    - WDF5 = Direction of fastest 5-second wind (degrees)
+    - WSF2 = Fastest 2-minute wind speed (miles per hour or  meters per second as per user preference)
+    - WSF5 = Fastest 5-minute wind speed (miles per hour or  meters per second as per user preference)
